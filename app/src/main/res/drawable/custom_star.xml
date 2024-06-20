@@ -1,0 +1,23 @@
+<!-- res/drawable/custom_star.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Filled star -->
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <solid android:color="#D3D3D3" /> <!-- Light grey color for empty stars -->
+        </shape>
+    </item>
+    <item android:id="@android:id/secondaryProgress">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="#FFD700" /> <!-- Gold color for partial stars -->
+            </shape>
+        </clip>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="#FFD700" /> <!-- Gold color for filled stars -->
+            </shape>
+        </clip>
+    </item>
+</layer-list>
