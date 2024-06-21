@@ -42,25 +42,7 @@
                     android:layout_marginEnd="20dp"
                     android:background="@drawable/search"
                     android:orientation="horizontal"
-                    tools:ignore="UselessParent">
-
-                    <!-- EditText for search input -->
-                    <EditText
-                        android:id="@+id/searchEditText"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:layout_marginLeft="20dp"
-                        android:padding="10dp"
-                        android:hint="Search"
-                        android:textColor="@color/black"
-                        android:textSize="18sp"
-                        android:background="@android:color/transparent"
-                        android:imeOptions="actionSearch"
-                        android:inputType="text" />
-
-
-                </LinearLayout>
+                    tools:ignore="UselessParent"/>
 
             </LinearLayout>
             <LinearLayout

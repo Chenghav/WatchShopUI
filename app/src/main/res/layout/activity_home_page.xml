@@ -332,7 +332,7 @@
                         android:layout_margin="10dp"
                         android:clickable="true"
                         android:onClick="onCardClick"
-                        android:background="@drawable/cardbg"
+
                         >
                         <LinearLayout
                             android:layout_width="match_parent"
@@ -416,7 +416,7 @@
                         android:layout_width="330dp"
                         android:layout_height="420dp"
                         android:layout_margin="10dp"
-                        android:background="@drawable/cardbg"
+
                         >
 
                         <LinearLayout
@@ -502,7 +502,7 @@
                         android:layout_width="330dp"
                         android:layout_height="420dp"
                         android:layout_margin="10dp"
-                        android:background="@drawable/cardbg"
+
                         >
 
                         <LinearLayout
@@ -588,7 +588,7 @@
                         android:layout_width="330dp"
                         android:layout_height="420dp"
                         android:layout_margin="10dp"
-                        android:background="@drawable/cardbg"
+
                         >
 
                         <LinearLayout
@@ -616,7 +616,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="330dp"
                                 android:importantForAccessibility="no"
-                                android:src="@drawable/card_8"
+                                android:src="@drawable/watch16"
                                 tools:ignore="MissingConstraints" />
 
                             <LinearLayout
@@ -702,7 +702,7 @@
                         android:layout_margin="10dp"
                         android:clickable="true"
                         android:onClick="onCardClick"
-                        android:background="@drawable/cardbg"
+
                          >
                         <LinearLayout
                             android:layout_width="match_parent"
@@ -727,7 +727,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="330dp"
                                 android:importantForAccessibility="no"
-                                android:src="@drawable/card_11"
+                                android:src="@drawable/watch13"
                                 tools:ignore="MissingConstraints" />
 
                             <LinearLayout
@@ -780,7 +780,7 @@
                         android:layout_width="330dp"
                         android:layout_height="420dp"
                         android:layout_margin="10dp"
-                        android:background="@drawable/cardbg"
+
                           >
 
                         <LinearLayout
@@ -808,7 +808,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="330dp"
                                 android:importantForAccessibility="no"
-                                android:src="@drawable/card_13"
+                                android:src="@drawable/watch15"
                                 tools:ignore="MissingConstraints" />
 
                             <LinearLayout
@@ -866,7 +866,7 @@
                         android:layout_width="330dp"
                         android:layout_height="420dp"
                         android:layout_margin="10dp"
-                        android:background="@drawable/cardbg"
+
                           >
 
                         <LinearLayout
@@ -894,7 +894,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="330dp"
                                 android:importantForAccessibility="no"
-                                android:src="@drawable/card_14"
+                                android:src="@drawable/watch17"
                                 tools:ignore="MissingConstraints" />
 
                             <LinearLayout
@@ -952,7 +952,7 @@
                         android:layout_width="330dp"
                         android:layout_height="420dp"
                         android:layout_margin="10dp"
-                        android:background="@drawable/cardbg"
+
                           >
 
                         <LinearLayout
@@ -980,7 +980,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="330dp"
                                 android:importantForAccessibility="no"
-                                android:src="@drawable/card_8"
+                                android:src="@drawable/watch18"
                                 tools:ignore="MissingConstraints" />
 
                             <LinearLayout
@@ -1054,7 +1054,7 @@
                         android:layout_margin="10dp"
                         android:clickable="true"
                         android:onClick="onCardClick"
-                        android:background="@drawable/cardbg"
+
                           >
                         <LinearLayout
                             android:layout_width="match_parent"
@@ -1079,7 +1079,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="330dp"
                                 android:importantForAccessibility="no"
-                                android:src="@drawable/card_9"
+                                android:src="@drawable/watch15"
                                 tools:ignore="MissingConstraints" />
 
                             <LinearLayout
@@ -1132,7 +1132,7 @@
                         android:layout_width="330dp"
                         android:layout_height="420dp"
                         android:layout_margin="10dp"
-                        android:background="@drawable/cardbg"
+
                           >
 
                         <LinearLayout
@@ -1160,7 +1160,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="330dp"
                                 android:importantForAccessibility="no"
-                                android:src="@drawable/card_10"
+                                android:src="@drawable/watch21"
                                 tools:ignore="MissingConstraints" />
 
                             <LinearLayout
@@ -1218,7 +1218,7 @@
                         android:layout_width="330dp"
                         android:layout_height="420dp"
                         android:layout_margin="10dp"
-                        android:background="@drawable/cardbg"
+
                           >
 
                         <LinearLayout
@@ -1246,7 +1246,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="330dp"
                                 android:importantForAccessibility="no"
-                                android:src="@drawable/card_7"
+                                android:src="@drawable/watch16"
                                 tools:ignore="MissingConstraints" />
 
                             <LinearLayout
@@ -1304,7 +1304,7 @@
                         android:layout_width="330dp"
                         android:layout_height="420dp"
                         android:layout_margin="10dp"
-                        android:background="@drawable/cardbg"
+
                           >
 
                         <LinearLayout
@@ -1332,7 +1332,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="330dp"
                                 android:importantForAccessibility="no"
-                                android:src="@drawable/card_8"
+                                android:src="@drawable/watch19"
                                 tools:ignore="MissingConstraints" />
 
                             <LinearLayout
@@ -1531,7 +1531,7 @@
                     <TextView
                         android:layout_marginHorizontal="35dp"
                         android:layout_width="wrap_content"
-                        android:text="About Us"
+                        android:text="About Me"
                         android:gravity="center"
                         android:textColor="@color/accent"
                         android:textSize="18sp"
